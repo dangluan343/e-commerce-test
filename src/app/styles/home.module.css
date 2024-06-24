@@ -1,0 +1,15 @@
+/* styles/Home.module.css */
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.container h1 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.container p {
+  line-height: 1.6;
+}
